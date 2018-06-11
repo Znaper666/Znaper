@@ -1,0 +1,109 @@
+body
+{
+	background-color: #000000;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+}
+
+#content
+{
+	float: left;
+	width: 480px;
+	height: 470px;
+	background-color: #ffffff;
+	padding-top: 20px;
+	padding-left:10px;
+	text-align: left;
+	font-size: 18px;
+}
+
+#content2
+{
+	text-align: center;
+}
+
+#avatar
+{
+	float: left;
+	width: 470px;
+	height: 210px;
+	background-color: #ffffff;
+	text-align: left;
+	padding-left: 10px;
+	padding-bottom:40px;
+	
+}
+
+#info
+{
+	float: left;
+	width: 430px;
+	height: 270px;
+	background-color: #ffffff;
+	text-align: left;
+	padding-left: 0px;
+	
+}
+#foto
+{
+	float: right;
+	padding: 5px;
+	width: 500px;
+	background-color: #ffffff;
+	height: 480px;
+	text-align: center;
+}
+
+
+#foto1
+{
+	float: left;
+	padding: 5px;
+	width: 240px;
+	background-color: #ffffff;
+	height: 230px;
+	text-align: center;
+}
+
+#foto2
+{
+	float: left;
+	padding: 5px;
+	width: 240px;
+	background-color: #ffffff;
+	height: 230px;
+	text-align: center;
+}
+
+#foto3
+{
+	float: left;
+	padding: 5px;
+	width: 240px;
+	background-color: #ffffff;
+	height: 230px;
+	text-align: center;
+}
+
+#foto4
+{
+	float: left;
+	padding: 5px;
+	width: 240px;
+	background-color: #ffffff;
+	height: 230px;
+	text-align: center;
+}
+
+#text
+{
+	text-align: center;
+	float: center;
+}
